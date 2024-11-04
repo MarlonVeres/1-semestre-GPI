@@ -26,11 +26,11 @@ Descrição de demanda de projetos acadêmico em informatica primeiro semestre
 
 ![Capturar trabalho 1]![image](https://github.com/user-attachments/assets/b8b37a10-7e99-4428-a062-d3cbfcb9cca4)
 
-#  POWER BI 1
+#  POWERBI 1
 ![Capturar trabalho 2](https://github.com/user-attachments/assets/82e5df8e-6536-45df-b178-3093f473beb1)
 
 
-#  POWER BI 2
+#  POWERBI 2
 ![Capturar  trabalho 3 pag 1](https://github.com/user-attachments/assets/5224298f-8448-4fbe-8e0c-a68e003a02e4)
 
 
@@ -40,8 +40,8 @@ Descrição de demanda de projetos acadêmico em informatica primeiro semestre
 ![Capturar  trabalho 3 pag 3](https://github.com/user-attachments/assets/c655d75a-f44e-43a4-9c02-f3432bb137cd)
 
 
-#  POWER BI 3
-![Capturar  trabalho 4](https://github.com/user-attachments/assets/79071fd4-cfd0-477a-9e4b-82b7a41923e2)
+#  POWERBI 3
+![Capturar  trabalho 4]![image](https://github.com/user-attachments/assets/8472df5c-59e1-4f0c-8baf-40f94a5ca053)
 
 
 
