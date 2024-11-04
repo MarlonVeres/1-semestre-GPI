@@ -24,7 +24,7 @@ Descrição de demanda de projetos acadêmico em informatica primeiro semestre
 
  # atividade dados abertos
 
-![Capturar trabalho 1](https://github.com/user-attachments/assets/5da04870-bf3c-48ad-b221-1a51e4cd808c)
+![Capturar trabalho 1]![image](https://github.com/user-attachments/assets/b8b37a10-7e99-4428-a062-d3cbfcb9cca4)
 
 #  POWER BI 1
 ![Capturar trabalho 2](https://github.com/user-attachments/assets/82e5df8e-6536-45df-b178-3093f473beb1)
