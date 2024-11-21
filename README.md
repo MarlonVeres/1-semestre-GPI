@@ -43,6 +43,8 @@ Descrição de demanda de projetos acadêmico em informatica primeiro semestre
 #  POWERBI 3 KPI
 [Capturar  trabalho 4]!![image](https://github.com/user-attachments/assets/19263091-5be3-497a-9b3f-e9e53ae2a9e2)
 
+# Power APPs e IA generativa 4
+[Capturar  trabalho 4]!!![image](https://github.com/user-attachments/assets/dceb0812-4228-4b74-82b6-5d75605b8146)
 
 
 # Objetivo do Projeto
